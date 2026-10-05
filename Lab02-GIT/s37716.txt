@@ -1,1 +1,2 @@
-Name:Alkin Ozcan
+Name: Alkin Ozcan
+Universty: PJATK
